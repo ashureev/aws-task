@@ -108,7 +108,7 @@ The ALB distributes incoming traffic across the instances in the private subnets
 - *Note: Do not manually attach instances; let the ASG manage registration.*
 
 
-  
+
 
   ![](tg.png)
 
@@ -149,3 +149,15 @@ To ensure predictable termination of instances during scale-in events:
 ![](terminationw.png)
 
 ![](termination.png)
+
+
+
+### Creation of S3 bucket:
+
+![](/home/ashu/Documents/aws-task/s3.png)
+
+![](/home/ashu/Documents/aws-task/s345.png)
+
+![](/home/ashu/Documents/aws-task/s333.png)
+
+![](/home/ashu/Documents/aws-task/cats3.png)
