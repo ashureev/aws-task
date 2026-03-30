@@ -154,10 +154,10 @@ To ensure predictable termination of instances during scale-in events:
 
 ### Creation of S3 bucket:
 
-![](/home/ashu/Documents/aws-task/s3.png)
+![](s3.png)
 
-![](/home/ashu/Documents/aws-task/s345.png)
+![](s345.png)
 
-![](/home/ashu/Documents/aws-task/s333.png)
+![](s333.png)
 
-![](/home/ashu/Documents/aws-task/cats3.png)
+![](cats3.png)
